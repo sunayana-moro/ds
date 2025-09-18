@@ -9,3 +9,8 @@ I’m using SQL extensively to slice and analyze this data, learning to write po
 Alongside the technical skills, what really captivates me is drawing meaningful conclusions from the data—like identifying emerging genres with rising sales but little competition, or What is the competitive landscape by genre. It’s like piecing together a puzzle where every query brings a new piece into focus.
 
 Ultimately, this project is both a learning journey and an exploration of an iconic and evolving cultural industry through the power of data.
+
+For more details and the complete code, check out my project notebook here:  
+[Video Game Sales Data Analytics Project on Kaggle](https://www.kaggle.com/code/sunayanasmoro/video-game-sales-data-analytics-project)
+The dataset used can be found here:  
+[Video Game Sales Dataset on Kaggle](https://www.kaggle.com/datasets/anandshaw2001/video-game-sales)
